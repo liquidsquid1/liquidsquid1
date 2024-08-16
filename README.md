@@ -1,10 +1,10 @@
 ## hey, i'm squid! 👋
 - 💻 intermediate skill level in programming
 - 🎮 passion for creating and modding games !!
-- 🤖 main project of focus: liquidise
+- 🤖 main project of focus: simplebounce
 
 ### my skills (or things i'm learning)
-![my skills](https://skillicons.dev/icons?i=java,nodejs,python,cs&theme=dark)
+![my skills](https://skillicons.dev/icons?i=java,kotlin,svelte,nodejs,python,cs&theme=dark)
 <hr>
 
 <div align="center">
