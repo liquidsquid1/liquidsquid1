@@ -1,7 +1,7 @@
 ## hey, i'm squid! 👋
 - 💻 intermediate skill level in programming
 - 🎮 passion for creating and modding games !!
-- 🤖 main project of focus: simplebounce
+- 🤖 main project of focus: catppuccin-lb
 
 ### my skills (or things i'm learning)
 ![my skills](https://skillicons.dev/icons?i=java,kotlin,svelte,nodejs,python,cs&theme=dark)
